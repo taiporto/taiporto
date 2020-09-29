@@ -1,10 +1,10 @@
-### Oi, meu nome é Lia!
+## Oi, meu nome é Lia!
 <!-- [![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)](https://google.com) -->
 Sou estudante de desenvolvimento web e Javascript com um pezinho em Phyton. Aqui você vai econtrar projetos pessoais completos, projetos menores criados para estudo e alguns projetos escolares desenvolvidos entre 2016 e 2018.
 
 ## Quem sou eu
 - 🔭 Atualmente estou trabalhando em - Meu site pessoal e blog
-- 🌱 Atualmente estou estudando - React e Styled Components, CSS3
+- 🌱 Atualmente estou estudando - React, Styled Components e Animações/Transições com CSS
 - 👯 Quero colaborar com - Outros desenvolvedores com interesses semelhantes!
 - 💬 Pergunte-me sobre - CSS3, Zendesk Curlybars, Wordpress 
 - 🥅 Objetivo de 2020 - Ter meu site pessoal/blog pronto
