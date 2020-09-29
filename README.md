@@ -1,10 +1,5 @@
 # Oi, meu nome é Lia!
 <!-- [![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)](https://google.com) -->
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-<br/>
-
-## Bio
 Sou estudante de desenvolvimento web e Javascript com um pezinho em Phyton. Aqui você vai econtrar projetos pessoais completos, projetos menores criados para estudo e alguns projetos escolares desenvolvidos entre 2016 e 2018.
 
 ## O que faço
