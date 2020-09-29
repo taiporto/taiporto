@@ -1,5 +1,8 @@
 # Oi, meu nome é Lia!
 <!-- [![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)](https://google.com) -->
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+<br/>
 
 ## Quem sou eu
 Sou estudante de desenvolvimento web e Javascript com um pezinho em Phyton. Aqui você vai econtrar projetos pessoais completos, projetos menores criados para estudo e alguns projetos escolares desenvolvidos entre 2016 e 2018.
@@ -13,6 +16,7 @@ Sou estudante de desenvolvimento web e Javascript com um pezinho em Phyton. Aqui
 - ⚡ Fun fact - Adoro rascunhar interfaces no Figma!
 
 <br />
+<br />
 
 [![Lia's github stats](https://github-readme-stats.vercel.app/api?username=liaporto&count_private=true&include_all_commits=true&theme=nightowl)](https://github.com/liaporto)
 
@@ -25,7 +29,7 @@ Sou estudante de desenvolvimento web e Javascript com um pezinho em Phyton. Aqui
 <br />
 
 ## Entre em contato
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
+[<img align="left" alt="codeSTACKr | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
