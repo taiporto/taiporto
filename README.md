@@ -5,7 +5,6 @@ Meu nome é Lia, sou estudante de desenvolvimento web e Javascript com um pezinh
 ## O que faço
 - 🔭 Atualmente estou trabalhando em - Meu site pessoal e blog
 - 🌱 Atualmente estou estudando - React, Styled Components e Animações/Transições com CSS
-- 👯 Quero colaborar com - Outros desenvolvedores com interesses semelhantes!
 - 💬 Pergunte-me sobre - CSS3, Zendesk Curlybars, Wordpress 
 - 🥅 Objetivo de 2020 - Ter meu site pessoal/blog pronto
 - ⚡ Fun fact - Adoro rascunhar interfaces no Figma!
@@ -13,15 +12,19 @@ Meu nome é Lia, sou estudante de desenvolvimento web e Javascript com um pezinh
 <br />
 <br />
 
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+ <img src="https://github-readme-stats.vercel.app/api?username=liaporto&count_private=true&include_all_commits=true&theme=buefy&hide=issues,contribs&show_icons=true" alt="Lia's github stats" align="center"/>
+ </a>
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liaporto&layout=compact&hide=c%23&theme=buefy" alt="Lia's top languages" align="center"/>
+ </a>
 
- [![Lia's github stats](https://github-readme-stats.vercel.app/api?username=liaporto&count_private=true&include_all_commits=true&theme=nightowl&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liaporto&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
-
+<br />
 <br />
 
 ## Meus projetos
-[![CalculaECO - Calculadora de C.R.](https://github-readme-stats.vercel.app/api/pin/?username=liaporto&repo=calcula-eco)](https://github.com/liaporto/calcula-eco)
-[![BandejãoBot UFRJ](https://github-readme-stats.vercel.app/api/pin/?username=liaporto&repo=bandejaobot-ufrj)](https://github.com/liaporto/bandejaobot-ufrj)
+[![CalculaECO - Calculadora de C.R.](https://github-readme-stats.vercel.app/api/pin/?username=liaporto&repo=calcula-eco&theme=buefy)](https://github.com/liaporto/calcula-eco)
+[![BandejãoBot UFRJ](https://github-readme-stats.vercel.app/api/pin/?username=liaporto&repo=bandejaobot-ufrj&theme=buefy)](https://github.com/liaporto/bandejaobot-ufrj)
 
 
 <br />
