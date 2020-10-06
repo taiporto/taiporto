@@ -21,17 +21,14 @@ Meu nome é Lia, sou estudante de desenvolvimento web e Javascript com um pezinh
  </a>
 
 <br />
-<br />
 
 ## Projetos
-<div style="width:100%;display:flex;align-items: space-between">
  <a href="https://github.com/liaporto/bandejaobot-ufrj">
  <img src="https://github-readme-stats.vercel.app/api/pin/?username=liaporto&repo=bandejaobot-ufrj&theme=buefy" alt="Bandejão Bot UFRJ" align="center"/>
  </a>
  <a href="https://github.com/liaporto/calcula-eco">
  <img src="https://github-readme-stats.vercel.app/api/pin/?username=liaporto&repo=calcula-eco&theme=buefy" alt="CalculaECO - Calculadora de C.R." align="center"/>
  </a>
-</div>
  
 <br />
 
