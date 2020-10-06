@@ -12,6 +12,7 @@ Meu nome é Lia, sou estudante de desenvolvimento web e Javascript com um pezinh
 <br />
 <br />
 
+## Stats
  <a href="https://github.com/anuraghazra/github-readme-stats">
  <img src="https://github-readme-stats.vercel.app/api?username=liaporto&count_private=true&include_all_commits=true&theme=buefy&hide=issues,contribs&show_icons=true" alt="Lia's github stats" align="center"/>
  </a>
@@ -22,11 +23,16 @@ Meu nome é Lia, sou estudante de desenvolvimento web e Javascript com um pezinh
 <br />
 <br />
 
-## Meus projetos
-[![CalculaECO - Calculadora de C.R.](https://github-readme-stats.vercel.app/api/pin/?username=liaporto&repo=calcula-eco&theme=buefy)](https://github.com/liaporto/calcula-eco)
-[![BandejãoBot UFRJ](https://github-readme-stats.vercel.app/api/pin/?username=liaporto&repo=bandejaobot-ufrj&theme=buefy)](https://github.com/liaporto/bandejaobot-ufrj)
-
-
+## Projetos
+<div style="width:100%;display:flex;align-items: space-between">
+ <a href="https://github.com/liaporto/bandejaobot-ufrj">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=liaporto&repo=bandejaobot-ufrj&theme=buefy" alt="Bandejão Bot UFRJ" align="center"/>
+ </a>
+ <a href="https://github.com/liaporto/calcula-eco">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=liaporto&repo=calcula-eco&theme=buefy" alt="CalculaECO - Calculadora de C.R." align="center"/>
+ </a>
+</div>
+ 
 <br />
 
 ## Entre em contato
