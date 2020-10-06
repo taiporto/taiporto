@@ -10,7 +10,6 @@ Meu nome é Lia, sou estudante de desenvolvimento web e Javascript com um pezinh
 - ⚡ Fun fact - Adoro rascunhar interfaces no Figma!
 
 <br />
-<br />
 
 ## Stats
  <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -20,6 +19,7 @@ Meu nome é Lia, sou estudante de desenvolvimento web e Javascript com um pezinh
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liaporto&layout=compact&hide=c%23&theme=buefy" alt="Lia's top languages" align="center"/>
  </a>
 
+<br />
 <br />
 
 ## Projetos
