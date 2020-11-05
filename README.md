@@ -1,4 +1,4 @@
-# Hi there!
+# Oi! 👋🏾 
 <!-- [![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)](https://google.com) -->
 Meu nome é Lia, sou estudante de desenvolvimento web e Javascript com um pezinho em Phyton. Aqui você vai econtrar projetos pessoais completos, projetos menores criados para estudo e alguns projetos escolares desenvolvidos entre 2016 e 2018.
 
