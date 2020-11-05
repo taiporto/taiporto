@@ -5,7 +5,7 @@ Meu nome é Lia, sou estudante de desenvolvimento web e Javascript com um pezinh
 <br />
 
 ## O que faço
-- 🔭 Atualmente estou trabalhando em - Meu site pessoal e blog
+- 🔭 Atualmente estou trabalhando em - Meu site pessoal e blog; Projeto de contador de views do Youtube
 - 🌱 Atualmente estou estudando - React, Styled Components e Animações/Transições com CSS
 - 💬 Pergunte-me sobre - CSS3, Zendesk Curlybars, Wordpress 
 - 🥅 Objetivo de 2020 - Ter meu site pessoal/blog pronto
