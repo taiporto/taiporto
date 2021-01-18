@@ -1,15 +1,14 @@
 # Oi! 👋🏾 
 <!-- [![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)](https://google.com) -->
-Meu nome é Lia, sou estudante de desenvolvimento web e Javascript com um pezinho em Phyton. Aqui você vai econtrar projetos pessoais completos, projetos menores criados para estudo e alguns projetos escolares desenvolvidos entre 2016 e 2018.
+Meu nome é Lia, sou estudante de desenvolvimento web e Javascript com um pezinho em Python. Aqui você vai encontrar projetos pessoais completos, projetos menores criados para estudo e alguns projetos escolares desenvolvidos entre 2016 e 2018.
 
 <br />
 
 ## O que faço
-- 🔭 Atualmente estou trabalhando em - Meu site pessoal e blog
+- 🔭 Atualmente estou trabalhando em - Melhorias no CalculaECO
 - 🌱 Atualmente estou estudando - React, Styled Components e Animações/Transições com CSS
-- 💬 Pergunte-me sobre - CSS3, Zendesk Curlybars, Wordpress 
-- 🥅 Objetivo de 2020 - Ter meu site pessoal/blog pronto
-- ⚡ Fun fact - Adoro rascunhar interfaces no Figma!
+- 💬 Pergunte-me sobre - CSS3, Zendesk Curlybars, Wordpress
+- ⚡ Fun fact - Amo rascunhar interfaces e wireframes no Figma
 
 <br />
 
