@@ -1,5 +1,8 @@
 # Oi! 👋🏾 
-<!-- [![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)](https://google.com) -->
+[![Website](https://img.shields.io/badge/Website/Portfolio-liaporto-green?style=flat-square)](https://liaporto.github.io)
+[![Twitter](https://img.shields.io/badge/LinkedIn-Lia_Barcellos-blue?style=flat-square)](https://www.linkedin.com/in/lia-barcellos/)
+[![Email](https://img.shields.io/badge/Email-liabarcellos28@gmail.com-red?style=flat-square)](mailto:liabarcellos28@gmail.com)
+
 Meu nome é Lia, sou estudante de desenvolvimento web e Javascript com um pezinho em Python. Aqui você vai encontrar projetos pessoais completos, projetos menores criados para estudo e alguns projetos escolares desenvolvidos entre 2016 e 2018.
 
 <br />
