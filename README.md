@@ -5,10 +5,9 @@ Meu nome é Lia, sou estudante de desenvolvimento web e Javascript com um pezinh
 <br />
 
 ## O que faço
-- 🔭 Atualmente estou trabalhando em - Melhorias na ferramenta de cálculo de C.R, o [CalculaECO](http://calcula-eco.herokuapp.com/)
+- 🔭 Atualmente estou trabalhando em - Melhorias na ferramenta de cálculo de C.R para a Escola de Comunicação da UFRJ, o [CalculaECO](http://calcula-eco.herokuapp.com/)
 - 🌱 Atualmente estou estudando - React, Styled Components e Animações/Transições com CSS
-- 💬 Pergunte-me sobre - CSS3, Zendesk Curlybars, Wordpress
-- ⚡ Fun fact - Amo rascunhar interfaces e wireframes no Figma
+- 💬 Pergunte-me sobre - CSS3, Zendesk Curlybars, Nunjucks
 
 <br />
 
