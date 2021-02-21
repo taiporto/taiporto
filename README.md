@@ -36,15 +36,6 @@ Meu nome é Lia, sou estudante de desenvolvimento web e Javascript. Aqui você v
 <br />
 
 
-## Entre em contato
-[<img align="left" alt="codeSTACKr | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<!-- Optional if you have blogs -->
-<!-- ## Latest blog posts: -->
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <!-- This section you create this variables that are used above -->
 [website]: https://liaporto.github.io
 [email]: mailto:liabarcellos28@gmail.com
