@@ -2,7 +2,7 @@
 [![Website](https://img.shields.io/badge/Website/Portfolio-liaporto-green?style=flat-square)]([website])
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Lia_Barcellos-blue?style=flat-square)]([linkedin])
 
-Meu nome é Lia, sou estudante de desenvolvimento web e Javascript. Aqui você vai encontrar projetos pessoais completos, projetos menores criados para estudo e alguns projetos escolares desenvolvidos entre 2016 e 2018.
+Meu nome é Lia, sou estudante de desenvolvimento web front-end. Aqui você vai encontrar projetos pessoais completos, projetos menores criados para estudo e alguns projetos escolares desenvolvidos entre 2016 e 2018.
 
 <br />
 
