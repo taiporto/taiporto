@@ -1,6 +1,6 @@
 # Oi! 👋🏾 
-[![Website](https://img.shields.io/badge/Website/Portfolio-liaporto-green?style=flat-square)]([website])
-[![Linkedin](https://img.shields.io/badge/LinkedIn-Lia_Barcellos-blue?style=flat-square)]([linkedin])
+[![website](https://img.shields.io/badge/Website/Portfolio-liaporto-green?style=flat-square)](https://liaporto.github.io/)
+[![linkedin](https://img.shields.io/badge/LinkedIn-Lia_Barcellos-blue?style=flat-square)](https://www.linkedin.com/in/lia-barcellos/)
 
 Meu nome é Lia, sou estudante de desenvolvimento web front-end. Aqui você vai encontrar projetos pessoais completos, projetos menores criados para estudo e alguns projetos escolares desenvolvidos entre 2016 e 2018.
 
@@ -34,9 +34,3 @@ Meu nome é Lia, sou estudante de desenvolvimento web front-end. Aqui você vai 
  
 <br />
 <br />
-
-
-<!-- This section you create this variables that are used above -->
-[website]: https://liaporto.github.io
-[email]: mailto:liabarcellos28@gmail.com
-[linkedin]: https://www.linkedin.com/in/lia-barcellos/
