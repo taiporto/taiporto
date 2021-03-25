@@ -2,7 +2,7 @@
 [![website](https://img.shields.io/badge/Website/Portfolio-liaporto-green?style=flat-square)](https://liaporto.github.io/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-Lia_Barcellos-blue?style=flat-square)](https://www.linkedin.com/in/lia-barcellos/)
 
-Meu nome é Lia, sou estudante de desenvolvimento web front-end. Aqui você vai encontrar projetos pessoais completos em Javascript e Python, projetos menores criados para estudo e alguns projetos escolares feitos em C# desenvolvidos entre 2016 e 2018.
+Meu nome é Lia e sou estudante de desenvolvimento web. Aqui você vai encontrar projetos pessoais completos em Javascript e Python, projetos menores criados para estudo e alguns projetos escolares feitos em C# desenvolvidos entre 2016 e 2018.
 <br />
 
 ## O que faço
