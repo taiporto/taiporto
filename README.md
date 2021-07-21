@@ -6,7 +6,7 @@ Meu nome é Lia e sou estudante de desenvolvimento web. Aqui você vai encontrar
 <br />
 
 ## O que faço
-- 🔭 Atualmente estou trabalhando em - Melhorias na ferramenta de cálculo de C.R para a Escola de Comunicação da UFRJ, o [CalculaECO](http://calcula-eco.herokuapp.com/)
+<!--- 🔭 Atualmente estou trabalhando em - Melhorias na ferramenta de cálculo de C.R para a Escola de Comunicação da UFRJ, o [CalculaECO](http://calcula-eco.herokuapp.com/)-->
 - 🌱 Atualmente estou estudando - React, Styled Components e Animações/Transições com CSS
 - 💬 Pergunte-me sobre - CSS3, Zendesk Curlybars, Nunjucks
 
