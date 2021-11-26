@@ -11,7 +11,6 @@ Aqui você vai encontrar projetos pessoais escritos em Javascript e Python, proj
 <!--- 🔭 Atualmente estou trabalhando em - Melhorias na ferramenta de cálculo de C.R para a Escola de Comunicação da UFRJ, o [CalculaECO](http://calcula-eco.herokuapp.com/)-->
 - 🌱 Atualmente estou estudando - React.js, Node.js e integração de processos
 - 💬 Pergunte-me sobre - CSS3, Sass, React.js, Zendesk Curlybars
-
 <br />
 
 ## Stats
