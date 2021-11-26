@@ -2,13 +2,13 @@
 [![website](https://img.shields.io/badge/Website/Portfolio-liaporto-green?style=flat-square)](https://liaporto.github.io/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-Lia_Barcellos-blue?style=flat-square)](https://www.linkedin.com/in/lia-barcellos/)
 
-Meu nome é Lia e sou desenvolvedora web. Aqui você vai encontrar projetos pessoais escritos em Javascript e Python, projetos menores criados para estudo e alguns projetos escolares feitos em C# e desenvolvidos entre 2016 e 2018.
+Meu nome é Lia e sou desenvolvedora front-end, trabalhando primariamente com React.js e React Native. Aqui você vai encontrar projetos pessoais escritos em Javascript e Python, projetos menores criados para estudo e alguns projetos feitos em C# e desenvolvidos entre 2016 e 2018.
 <br />
 
 ## O que faço
 <!--- 🔭 Atualmente estou trabalhando em - Melhorias na ferramenta de cálculo de C.R para a Escola de Comunicação da UFRJ, o [CalculaECO](http://calcula-eco.herokuapp.com/)-->
-- 🌱 Atualmente estou estudando - React, Styled Components e Animações/Transições com CSS
-- 💬 Pergunte-me sobre - CSS3, Zendesk Curlybars, Nunjucks
+- 🌱 Atualmente estou estudando - React.js, Node.js e integração de processos
+- 💬 Pergunte-me sobre - CSS3, Sass, React.js, Zendesk Curlybars
 
 <br />
 
@@ -24,6 +24,9 @@ Meu nome é Lia e sou desenvolvedora web. Aqui você vai encontrar projetos pess
 <br />
 
 ## Projetos
+ <a href="https://github.com/escola-de-dados/toolkit_ddj">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=escola-de-dados&repo=toolkit_ddj&theme=buefy" alt="Caixa de Ferramentas do Jornalismo de Dados" align="center"/>
+ </a>
  <a href="https://github.com/liaporto/bandejaobot-ufrj">
  <img src="https://github-readme-stats.vercel.app/api/pin/?username=liaporto&repo=bandejaobot-ufrj&theme=buefy" alt="Bandejão Bot UFRJ" align="center"/>
  </a>
