@@ -2,7 +2,9 @@
 [![website](https://img.shields.io/badge/Website/Portfolio-liaporto-green?style=flat-square)](https://liaporto.github.io/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-Lia_Barcellos-blue?style=flat-square)](https://www.linkedin.com/in/lia-barcellos/)
 
-Meu nome é Lia e sou desenvolvedora front-end, trabalhando primariamente com React.js e React Native. Aqui você vai encontrar projetos pessoais escritos em Javascript e Python, projetos menores criados para estudo e alguns projetos feitos em C# e desenvolvidos entre 2016 e 2018.
+Meu nome é Lia e sou desenvolvedora front-end, trabalhando primariamente com React.js e React Native.
+
+Aqui você vai encontrar projetos pessoais escritos em Javascript e Python, projetos menores criados para estudo e alguns projetos feitos em C# e desenvolvidos entre 2016 e 2018.
 <br />
 
 ## O que faço
