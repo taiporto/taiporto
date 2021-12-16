@@ -4,13 +4,19 @@
 
 Meu nome é Lia e sou desenvolvedora front-end. Trabalho primariamente com JavaScript e com foco em React.js e React Native.
 
-Aqui você vai encontrar projetos pessoais escritos em JavaScript e Python, projetos menores criados para estudo e alguns projetos feitos em C# e desenvolvidos entre 2016 e 2018.
+Aqui você vai encontrar projetos pessoais escritos em JavaScript e Python e outros projetos menores criados para estudo.
 <br />
 
 ## O que faço
 <!--- 🔭 Atualmente estou trabalhando em - Melhorias na ferramenta de cálculo de C.R para a Escola de Comunicação da UFRJ, o [CalculaECO](http://calcula-eco.herokuapp.com/)-->
-- 🌱 Atualmente estou estudando - React.js, Node.js e integração de processos
-- 💬 Pergunte-me sobre - CSS3, Sass, React.js, Zendesk Curlybars
+<!-- - 🌱 Atualmente estou estudando - React.js, Node.js e integração de processos
+- 💬 Pergunte-me sobre - CSS3, Sass, React.js, Zendesk Curlybars -->
+Atuo como desenvolvedora front-end na EJCM, empresa júnior da UFRJ focada no desenvolvimento de aplicativos e sistemas web.
+
+Colaborei na estruturação da [Caixa de Ferramentas do Jornalismo de Dados](https://github.com/escola-de-dados/toolkit_ddj), uma base colaborativa de ferramentas para trabalhar com dados criada pela [Escola de Dados](https://github.com/escola-de-dados), braço da Open Knowledge Brasil.
+
+Desenvolvi o [BandejãoBot UFRJ](https://github.com/liaporto/bandejaobot-ufrj), um bot que posta o cardápio dos Restaurantes Universitários da UFRJ todos os dias no Twitter e possui atualmente mais de 500 seguidores.
+<br />
 <br />
 
 ## Stats
