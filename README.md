@@ -29,17 +29,3 @@ Desenvolvi o [BandejãoBot UFRJ](https://github.com/liaporto/bandejaobot-ufrj), 
 
 <br />
 <br />
-
-## Projetos
- <a href="https://github.com/escola-de-dados/toolkit_ddj">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=escola-de-dados&repo=toolkit_ddj&theme=buefy" alt="Caixa de Ferramentas do Jornalismo de Dados" align="center"/>
- </a>
- <a href="https://github.com/liaporto/bandejaobot-ufrj">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=liaporto&repo=bandejaobot-ufrj&theme=buefy" alt="Bandejão Bot UFRJ" align="center"/>
- </a>
- <a href="https://github.com/liaporto/calcula-eco">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=liaporto&repo=calcula-eco&theme=buefy" alt="CalculaECO - Calculadora de C.R." align="center"/>
- </a>
- 
-<br />
-<br />
