@@ -6,6 +6,7 @@ Meu nome é Lia e sou desenvolvedora front-end. Trabalho primariamente com JavaS
 
 Aqui você vai encontrar projetos pessoais escritos em JavaScript e Python e outros projetos menores criados para estudo.
 <br />
+<br />
 
 ## O que faço
 <!--- 🔭 Atualmente estou trabalhando em - Melhorias na ferramenta de cálculo de C.R para a Escola de Comunicação da UFRJ, o [CalculaECO](http://calcula-eco.herokuapp.com/)-->
