@@ -12,7 +12,7 @@ Aqui você vai encontrar projetos pessoais escritos em JavaScript e Python e out
 <!--- 🔭 Atualmente estou trabalhando em - Melhorias na ferramenta de cálculo de C.R para a Escola de Comunicação da UFRJ, o [CalculaECO](http://calcula-eco.herokuapp.com/)-->
 <!-- - 🌱 Atualmente estou estudando - React.js, Node.js e integração de processos
 - 💬 Pergunte-me sobre - CSS3, Sass, React.js, Zendesk Curlybars -->
-Atuo como desenvolvedora front-end na EJCM, empresa júnior da UFRJ focada no desenvolvimento de aplicativos e sistemas web.
+Atuo como desenvolvedora de software trainee na Pipefy.
 
 Colaborei na estruturação da [Caixa de Ferramentas do Jornalismo de Dados](https://github.com/escola-de-dados/toolkit_ddj), uma base colaborativa de ferramentas para o trabalho com dados criada pela [Escola de Dados](https://github.com/escola-de-dados), braço da Open Knowledge Brasil.
 
