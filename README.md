@@ -16,7 +16,7 @@ Atuo como desenvolvedora de software trainee na Pipefy.
 
 Colaborei na estruturação da [Caixa de Ferramentas do Jornalismo de Dados](https://github.com/escola-de-dados/toolkit_ddj), uma base colaborativa de ferramentas para o trabalho com dados criada pela [Escola de Dados](https://github.com/escola-de-dados), braço da Open Knowledge Brasil.
 
-Desenvolvi o [BandejãoBot UFRJ](https://github.com/liaporto/bandejaobot-ufrj), um bot que posta o cardápio dos Restaurantes Universitários da UFRJ todos os dias no Twitter e possui atualmente mais de 500 seguidores.
+Desenvolvi o [BandejãoBot UFRJ](https://github.com/liaporto/bandejaobot-ufrj), um bot que posta o cardápio dos Restaurantes Universitários da UFRJ todos os dias no Twitter e possui atualmente mais de 3.000 seguidores.
 <br />
 <br />
 
