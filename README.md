@@ -1,5 +1,5 @@
 # Oi! 👋🏾 
-[![website](https://img.shields.io/badge/Website/Portfolio-liaporto-green?style=flat-square)](https://liaporto.github.io/)
+[![website](https://img.shields.io/badge/Website/Portfolio-liaporto.github.io-green?style=flat-square)](https://liaporto.github.io/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-Lia_Barcellos-blue?style=flat-square)](https://www.linkedin.com/in/lia-barcellos/)
 
 Meu nome é Lia e sou desenvolvedora front-end. Trabalho primariamente com JavaScript e com foco em React.js e React Native.
