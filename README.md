@@ -1,6 +1,6 @@
 # Oi! 👋🏾 
 [![website](https://img.shields.io/badge/Website/Portfolio-taiporto.github.io-green?style=flat-square)](https://taiporto.github.io/)
-[![linkedin](https://img.shields.io/badge/LinkedIn-Lia_Barcellos-blue?style=flat-square)](https://www.linkedin.com/in/lia-barcellos/)
+[![linkedin](https://img.shields.io/badge/LinkedIn-Tai_Porto-blue?style=flat-square)](https://www.linkedin.com/in/taiporto/)
 
 Meu nome é Tai e sou desenvolvedor front-end. Trabalho primariamente com JavaScript e com foco em React.js e React Native.
 
