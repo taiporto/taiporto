@@ -13,7 +13,7 @@ Aqui você vai encontrar projetos pessoais escritos em TypeScript/JavaScript e P
 <!-- - 🌱 Atualmente estou estudando - React.js, Node.js e integração de processos
 - 💬 Pergunte-me sobre - CSS3, Sass, React.js, Zendesk Curlybars -->
 
-Atuo como Desenvolvedor de Software na Pipefy.
+Atuo como Desenvolvedor de Software Front-end na Pipefy.
 
 Colaborei na estruturação da [Caixa de Ferramentas do Jornalismo de Dados](https://github.com/escola-de-dados/toolkit_ddj), uma base colaborativa de ferramentas para o trabalho com dados criada pela [Escola de Dados](https://github.com/escola-de-dados), braço da Open Knowledge Brasil.
 
