@@ -1,22 +1,22 @@
-# Oi! 👋🏾 
-[![website](https://img.shields.io/badge/Website/Portfolio-taiporto.github.io-green?style=flat-square)](https://taiporto.github.io/)
+# Hi! 👋🏾 
 [![linkedin](https://img.shields.io/badge/LinkedIn-Tai_Porto-blue?style=flat-square)](https://www.linkedin.com/in/taiporto/)
+[![website](https://img.shields.io/badge/Website/Portfolio-taiporto.com-green?style=flat-square)](https://taiporto.com/)
 
-Meu nome é Tai e sou desenvolvedor front-end. Trabalho primariamente com TypeScript e com foco em React.js e React Native.
+My name is Tai and I'm a front-end developer. I work mostly with TypeScript and I like to focus on React.js/React Native projects.
 
-Aqui você vai encontrar projetos pessoais escritos em TypeScript/JavaScript e Python e outros projetos menores criados para estudo.
+Here you'll find personal projects written in TypeScript/Javascript and Python, as well as other minor projects.
 <br />
 <br />
 
-## O que faço
+## What I do
 
-Atuo como Desenvolvedor de Software Front-end na Pipefy.
+I'm currently a Software Developer at [Pipefy](https://www.pipefy.com/).
 
-Às vezes dou uma palavrinha lá no meu [blog](https://moonk23.hashnode.dev/).
+Sometimes I publish on my personal [blog](https://moonk23.hashnode.dev/).
 
-Colaborei na estruturação da [Caixa de Ferramentas do Jornalismo de Dados](https://github.com/escola-de-dados/toolkit_ddj), uma base colaborativa de ferramentas para o trabalho com dados criada pela [Escola de Dados](https://github.com/escola-de-dados), braço da Open Knowledge Brasil.
+I led the development of the [Data Journalism Toolbox](https://github.com/escola-de-dados/toolkit_ddj), a collaborative toolbase created by [Escola de Dados](https://github.com/escola-de-dados), a branch of [Open Knowledge Brasil](https://ok.org.br/sobre/).
 
-Desenvolvi o [BandejãoBot UFRJ](https://github.com/liaporto/bandejaobot-ufrj), um bot que posta o cardápio dos Restaurantes Universitários da UFRJ todos os dias no Twitter e possui atualmente mais de 9.000 seguidores.
+I also developed [BandejãoBot UFRJ](https://github.com/liaporto/bandejaobot-ufrj), a Twitter/X bot that posts the UFRJ's (Federal University of Rio de Janeiro) cafeteria menu everyday and currently has over 10k followers.
 <br />
 <br />
 
