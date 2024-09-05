@@ -16,7 +16,7 @@ Sometimes I publish on my personal [blog](https://moonk23.hashnode.dev/).
 
 I led the development of the [Data Journalism Toolbox](https://github.com/escola-de-dados/toolkit_ddj), a collaborative toolbase created by [Escola de Dados](https://github.com/escola-de-dados), a branch of [Open Knowledge Brasil](https://ok.org.br/sobre/).
 
-I also developed [BandejãoBot UFRJ](https://github.com/liaporto/bandejaobot-ufrj), a Twitter/X bot that posts the UFRJ's (Federal University of Rio de Janeiro) cafeteria menu everyday and currently has over 10k followers.
+I also developed [BandejãoBot UFRJ](https://github.com/taiporto/bandejaobot-ufrj), a Twitter/X bot that posts the UFRJ's (Federal University of Rio de Janeiro) cafeteria menu everyday and currently has over 10k followers. Its new version is [BandejãoBot UFRJ Bksy](https://github.com/taiporto/bandejaobot-ufrj-bsky), a Bluesky bot created after the blocking of Twitter/X in Brazil.
 <br />
 <br />
 
