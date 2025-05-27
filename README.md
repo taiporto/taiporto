@@ -19,14 +19,3 @@ I led the development of the [Data Journalism Toolbox](https://github.com/escola
 I also developed [BandejãoBot UFRJ](https://github.com/taiporto/bandejaobot-ufrj), a bot that posts the UFRJ's (Federal University of Rio de Janeiro) cafeteria menu everyday to Bluesky and X.
 <br />
 <br />
-
-## Stats
- <a href="https://github.com/anuraghazra/github-readme-stats">
- <img src="https://github-readme-stats.vercel.app/api?username=taiporto&count_private=true&include_all_commits=true&theme=buefy&hide=issues,contribs&show_icons=true" alt="Tai's github stats" align="center"/>
- </a>
- <a href="https://github.com/anuraghazra/github-readme-stats">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taiporto&layout=compact&hide=c%23&theme=buefy" alt="Tai's top languages" align="center"/>
- </a>
-
-<br />
-<br />
